@@ -1,6 +1,6 @@
 # Coworking Map Streamlit - Projet Python S2
 
-Bienvenue sur mon projet de fin d’année en Python. Il s'agit d'une application interactive développée avec Python et Streamlit, permettant de **visualiser sur une carte les espaces de coworking en Île-de-France**, avec des options de recherche, de filtrage, et un graphique d’analyse.
+Bienvenue sur mon projet de fin d’année en Python. Il s'agit d'une application interactive développée avec Python et Streamlit, permettant de visualiser sur une carte les espaces de coworking en Île-de-France, avec des options de recherche, de filtrage, et un graphique d’analyse.
 
 ## Objectif
 
