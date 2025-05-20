@@ -19,14 +19,14 @@ Pour améliorer l’expérience utilisateur, j’ai ajouté une présentation en
 
 ## Fonctionnalités
 
-- **Scraping** automatique des données à partir du site [leportagesalarial.com](https://www.leportagesalarial.com/coworking/)
-- **Géocodage** des adresses via OpenStreetMap (Nominatim)
-- **Nettoyage et dédoublonnage** des données avec pandas
-- **Carte interactive** avec Folium (affichage des marqueurs personnalisés)
-- **Recherche par nom** (barre latérale)
-- **Filtre par code postal**
-- **Affichage en colonnes des résultats**
-- **Graphique dynamique** de répartition par arrondissement ou ville
+- Scraping automatique des données à partir du site [leportagesalarial.com](https://www.leportagesalarial.com/coworking/)
+- Géocodage des adresses via OpenStreetMap (Nominatim)
+- Nettoyage et dédoublonnage des données avec pandas
+- Carte interactive avec Folium (affichage des marqueurs personnalisés)
+- Recherche par nom (barre latérale)
+- Filtre par code postal
+- Affichage en colonnes des résultats
+- Graphique dynamique de répartition par arrondissement ou ville
 
 ---
 
