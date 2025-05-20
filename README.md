@@ -32,16 +32,16 @@ Pour améliorer l’expérience utilisateur, j’ai ajouté une présentation en
 
 ## Éléments
 
-- `app.py` : Code principal de l'application Streamlit
-- `coworking_idf.json` : Données JSON enrichies (scraping + géolocalisation)
-- `requirements.txt` : Dépendances nécessaires pour exécuter l'application
-- `README.md` : Documentation du projet (ce fichier)
+- app.py : Code principal de l'application Streamlit
+- coworking_idf.json : Données JSON enrichies (scraping + géolocalisation)
+- requirements.txt : Dépendances nécessaires pour exécuter l'application
+- README.md: Documentation du projet (ce fichier)
 
 ---
 
 ## Lancer l'application localement
 
-1. **Cloner ce dépôt** :
+1. cloner ce dépôt :
    ```bash
    git clone https://github.com/Noraa4/Coworking-Map-Streamlit-PythonS2.git
    cd Coworking-Map-Streamlit-PythonS2
